@@ -166,7 +166,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://www.itl.cat/pngfile/big/4-47732_hacker-boy-hacker.jpg") no-repeat center;
+    background: url("/images/hacker.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
